@@ -1,0 +1,7 @@
+database
+real-estate-extraction/gcloud
+*.bin
+*.pkl
+*.pb
+variables.*
+.vscode
